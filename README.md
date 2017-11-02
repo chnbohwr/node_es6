@@ -1,7 +1,10 @@
 # node_ed6 boilerplate
 
 ### features
-ES6 support
+ - ES6 support
+ - ESlint google rule
+ - Dockerlize
+ - jest unit test
 
 ### start project
 
