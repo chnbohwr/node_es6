@@ -1,0 +1,18 @@
+{
+    "extends": "google",
+    "parser": "babel-eslint",
+    "rules": {
+      "no-unused-vars": "warn",
+      "object-curly-spacing": "off",
+      "camelcase": "off",
+      "max-len": "off",
+      "new-cap": "off",
+      "require-jsdoc": "off"
+    },
+    "parserOptions": {
+      "ecmaFeatures": {
+        "jsx": true,
+        "modules": true
+      }
+    }
+  }
